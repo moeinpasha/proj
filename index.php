@@ -1,0 +1,735 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <!-- Primary Meta Tags -->
+<title>Wajra Logistics - Making your logistics and Transport services hassle-free online in Tier 2 and Tier 3 Cities!!!</title>
+<meta name="title" content="Wajra Logistics - Making your logistics and Transport services hassle-free online in Tier 2 and Tier 3 Cities!!!">
+<meta name="description" content="Wajra Logistics Offering Logistics, Transport Services with comfort Visual Digital Dashboard for Managing Shipment Orders and providing ease payment solutions for all your shipping needs.!!!">
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://metatags.io/">
+<meta property="og:title" content="Wajra Logistics - Making your logistics and Transport services hassle-free online in Tier 2 and Tier 3 Cities!!!">
+<meta property="og:description" content="Wajra Logistics Offering Logistics, Transport Services with comfort Visual Digital Dashboard for Managing Shipment Orders and providing ease payment solutions for all your shipping needs.!!!">
+<meta property="og:image" content="https://metatags.io/assets/meta-tags-16a33a6a8531e519cc0936fbba0ad904e52d35f34a46c97a2c9f6f7dd7d336f2.png">
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="https://metatags.io/">
+<meta property="twitter:title" content="Wajra Logistics - Making your logistics and Transport services hassle-free online in Tier 2 and Tier 3 Cities!!!">
+<meta property="twitter:description" content="Wajra Logistics Offering Logistics, Transport Services with comfort Visual Digital Dashboard for Managing Shipment Orders and providing ease payment solutions for all your shipping needs.!!!">
+<meta property="twitter:image" content="https://metatags.io/assets/meta-tags-16a33a6a8531e519cc0936fbba0ad904e52d35f34a46c97a2c9f6f7dd7d336f2.png">
+  <title>Wajra Logistics</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-beta.1/dist/js/select2.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+    integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+  <link href="https://fonts.googleapis.com/css?family=Ropa+Sans" rel="stylesheet">
+
+  <link rel="stylesheet" type="text/css"
+    href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+  <link rel="stylesheet" type="text/css" href="custom.css">
+  <!-- Favicons -->
+  <link href="assets/img/favicon.ico" rel="icon">
+  <!-- <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon"> -->
+
+  <!-- Google Fonts -->
+  <link
+    href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,600,600i,700,700i"
+    rel="stylesheet">
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+  <link rel="stylesheet" href="./assets/css/hero.css">
+  <style>
+    #more {
+      display: none;
+    };
+
+    #more1 {
+      display: none;
+    };
+
+    #more2 {
+      display: none;
+    };
+
+    #more3 {
+      display: none;
+    };
+
+    #more4 {
+      display: none;
+    };
+  </style>
+</head>
+
+<body>
+  <!-- ======= Header ======= -->
+  <header id="header" class="fixed-top d-flex align-items-center">
+    <div class="container d-flex align-items-center justify-content-between">
+
+      <div class="logo">
+        <h1 class="text-light"><a href="https://wajralogistics.com"><span><img src="assets/img/LOGO.jpg"
+                style="margin-bottom: 5px;"><span style="font-size:25px;padding-left:10px;">WAJRA</span></span></a></h1>
+        <!-- Uncomment below if you prefer to use an image logo -->
+        <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+      </div>
+
+      <nav id="navbar" class="navbar">
+        <ul>
+          <li><a class="nav-link scrollto" href="index.php">Home</a></li>
+          <li class="dropdown"><a href="aboutus.php"><span>About</span> <i class="bi bi-chevron-down"></i></a>
+            <ul>
+              <li><a href="aboutus.php#ourstory">Our story</a></li>
+              <li><a href="aboutus.php#vision">Vision</a></li>
+              <li><a href="aboutus.php#mission">Mission</a></li>
+              <li><a href="aboutus.php#team">Team</a></li>
+            </ul>
+          </li>
+
+          <li class="dropdown"><a href="services.php"><span>Services</span> <i class="bi bi-chevron-down"></i></a>
+            <ul>
+              <li><a href="3pllogi.php">Logistics</a></li>
+              <li><a href="fulltruckload.php">FTL(Full Truck Load)</a></li>
+              <li><a href="packers-movers.php">Packers & Movers</a></li>
+              <li><a href="transports.php">Transport Services</a></li>
+            </ul>
+          </li>
+          <li class="dropdown"><a href="#"><span>Tools</span> <i class="bi bi-chevron-down"></i></a>
+            <ul>
+              <li><a href="frieght-calculator.php">Freight Calculator</a></li>
+              <li><a href="pincode.php">Pincode Availability</a></li>
+              <li><a href="trackorder.php">Track your Order</a></li>
+            </ul>
+          </li>
+          <!-- <li><a class="nav-link scrollto" href="#">Features</a></li> -->
+          <li><a class="nav-link scrollto" href="contact.php">Contact Us</a></li>
+          <li><a class="getstarted scrollto" href="logi/login.php">Login</a></li>
+          <li><a class="getstarted scrollto" href="#">Track Order</a></li>
+        </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav>
+      <!-- .navbar ends here -->
+    </div>
+  </header>
+  <!-- The slideshow -->
+  <section class="carousel">
+    <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
+      <div class="carousel-indicators">
+        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
+      </div>
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="./assets/img/Logi.jpg" class="d-block w-100" alt="mg">
+          <div class="carousel-caption d-none d-md-block">
+            <div class="text-dark">
+              <h2>Wajra Logistics</h2>
+              <p>Making your logistics and Transport services hassle-free online in Tier 2 and Tier 3 Cities!!!</p>
+              <a class="btn" href="#" role="button">Sign Up</a>
+            </div>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img src="./assets/img/FTL-01.jpg" class="d-block w-100" alt="img">
+          <div class="carousel-caption d-none d-md-block">
+            <div class="text-dark">
+              <h2>Full Truck Load</h2>
+              <p>Our Full Truck Load service connects SMALL SCALE Industires.</p>
+              <a class="btn" href="#" role="button">Book Now</a>
+            </div>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img src="./assets/img/P M-01.jpg" class="d-block w-100" alt="img">
+          <div class="carousel-caption d-none d-md-block">
+            <div class="text-dark">
+              <h2>Packers and Movers</h2>
+              <p>We can make your life easier by taking Care of your Shifting needs</p>
+              <a class="btn " href="#" role="button">Book Now</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
+    </div>
+  </section>
+  <!-- ======= About Section ======= -->
+  <section id="about" class="about">
+    <div class="container">
+      <h2 class="about1">Why Choose Us?</h2>
+      <section>
+        <div class="row">
+          <div class="col-md-6">
+            <img src="./assets/img/d1.jpg" class="img-fluid">
+          </div>
+          <div class="col-md-6  abt-header">
+            <h2 class="head1">Digital dashboard</h2>
+            <ul>
+              <li> You need one single place to keep track of all your orders and shipments.</li>
+              <li>Wajra gives you all the tools you need to move products.</li>
+            </ul>
+            <button onclick="myFunction()" id="myBtn" class="btn btn-primary">Read more</button>
+          </div>
+        </div>
+      </section>
+      <!-- safety -->
+      <section>
+        <div class="row" style="padding-top: 20px;">
+          <div class="col-md-6">
+            <h2 class="head1">Saftey and Security</h2>
+            <p style="font-weight:bold;">We take care of your consignments, that is our job and we are very good at it.
+              We will make sure to inspect<span id="dots1">....</span><span id="more1"> your goods value as well before
+                shipping them so we can make sure that every cent spent on your shipment is valid..</span></p>
+          </div>
+          <div class="col-md-6">
+            <img src="./assets/img/Safety.jpg" class="img-fluid" style="height:300px;">
+          </div>
+        </div>
+      </section>
+      <!-- pricing -->
+      <section>
+        <div class="row" style="padding-top:20px;">
+          <div class="col-md-6">
+            <img src="./assets/img/Pricing.jpg" class="img-fluid" style="height:300px;">
+          </div>
+          <div class="col-md-6">
+            <h2 class="head1">Competative Pricing & Easy Invocing.</h2>
+            <p style="font-weight:bold;">We focus on offering competitive prices for our customers' <span
+                id="dots2">....</span><span id="more2">shipments and logistics needs with invoicing and reliable payment
+                solutions.
+                We also make sure that your payment is processed quickly and securely.</span></p>
+            <button onclick="myFunction2()" id="myBtn2" class="btn btn-success">Read more</button>
+          </div>
+        </div>
+      </section>
+      <!-- tracking -->
+      <section>
+        <div class="row" style="padding-top: 20px;">
+          <div class="col-md-6">
+            <h2 class="head1">Ease of Track and trace.</h2>
+            <p style="font-weight:bold;">You'll get updates of your shipments with single click, SMS & E-mail.<span
+                id="dots3">...</span><span id="more3"> Click once to view live status of your shipments and receive
+                updates to your smartphone for real-time delivery.</span></p>
+            <button type="button" class="btn btn-success" onclick="myFunction3()" id="myBtn3">Read more</button>
+          </div>
+          <div class="col-md-6">
+            <img src="./assets/img/tracking2.png" class="img-fluid" style="height:300px;">
+          </div>
+        </div>
+      </section>
+      <section>
+        <div class="row" style="padding-top:20px;">
+          <div class="col-md-6">
+            <img src="./assets/img/customer-service.jpg" class="img-fluid" style="height:300px;">
+          </div>
+          <div class="col-md-6">
+            <h2 class="head1">Superior Customer</h2>
+            <p style="font-family: sans-serif;font-weight: bold;padding-top:25px;">We are more than not just a moving
+              company; we take care of your belongings as if they were our own. Keeping "customer's satisfaction" at the
+              heart of everything we do,<span id="dots4">....</span><span id="more4"> our goal is to go above and beyond
+                your expectations. We help to make your move as smooth and stress-free as possible. You can contact us
+                at ourcustomer service line for emergency moves, or for a free estimate for regular moves. We provide
+                every customer with a customized digital dashboard where you can track your shipments and share your
+                feedback.</span></p>
+            <button onclick="myFunction4()" id="myBtn4" class="btn btn-success">Read more</button>
+          </div>
+        </div>
+      </section>
+    </div>
+  </section>
+  <!-- End About Section -->
+  <!-- services forms -->
+  <div class="modal" id="myModal">
+    <div class="modal-dialog">
+      <div class="modal-content">
+       <!-- Modal Header -->
+        <div class="modal-header">
+          <h4 class="modal-title">Full Truck Load</h4>
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+        </div>
+        <!-- Modal body -->
+        <div class="modal-body">
+          <div class="card">
+            <div class="card-body">
+              <div class="row">
+                <div class="col-md-6">
+                  <div class="form-group">
+                    <label for="name">Name</label>
+                    <input type="text" placeholder="Full Name" class="form-control">
+                  </div>
+                  <div class="form-group">
+                    <label for="name">Mobile Number</label>
+                    <input type="tel" placeholder="Mobile Number" pattern=".{10}" class="form-control">
+                  </div>
+                  <div class="form-group">
+                    <label for="name">From</label>
+                    <input type="text" placeholder="From" class="form-control">
+                  </div>
+                  <div class="form-group">
+                    <label for="name">To</label>
+                    <input type="text" placeholder="To" class="form-control">
+                  </div>
+
+                </div>
+                <div class="col-md-6">
+                  <div class="form-group">
+                    <label for="name">Select Vehical Type</label>
+                    <select class="form-control">
+                      <option selected>Type</option>
+                      <option>Open Truck</option>
+                      <option>Container</option>
+                      <option>Trailer</option>
+                      <option>Dumper</option>
+                      <option>Tanker</option>
+                      <option>Tipper</option>
+
+                    </select>
+                  </div>
+                  <div class="form-group">
+                    <label for="name">Select Tyres</label>
+                    <select class="form-control">
+                      <option selected>Tyres</option>
+                      <option>6 Tyres</option>
+                      <option>10 Tyres</option>
+                      <option>12 Tyres</option>
+                      <option>14 Tyres</option>
+                      <option>16 Tyres</option>
+                      <option>18 Tyres</option>
+                      <option>22 Tyres</option>
+                      <option>24 Tyres</option>
+                      <option>26 Tyres</option>
+
+
+                    </select>
+                  </div>
+                  <div class="form-group">
+                    <label for="name">Select Load Capacity</label>
+                    <input type="tel" placeholder="Min 2ton" class="form-control">
+                  </div>
+                  <div class="form-group">
+                    <label for="name">Type of Goods</label>
+                    <input type="tel" placeholder="" class="form-control">
+                  </div>
+
+                </div>
+              </div>
+              <center>
+                <button type="button" class="btn btn-primary">Submit</button>
+              </center>
+            </div>
+          </div>
+        </div>
+
+        <!-- Modal footer -->
+        <div class="modal-footer">
+          <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+        </div>
+
+      </div>
+    </div>
+
+  </div>
+
+  <div class="modal" id="myModal1">
+    <div class="modal-dialog">
+      <div class="modal-content">
+
+        <!-- Modal Header -->
+        <div class="modal-header">
+          <h4 class="modal-title">Packers & Movers</h4>
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+        </div>
+
+        <!-- Modal body -->
+        <div class="modal-body">
+          <div class="card">
+            <div class="card-body">
+              <div class="row">
+                <div class="col-md-6">
+                  <form>
+                    <div class="form-group">
+                      <label for="name">Name*</label>
+                      <input type="text" placeholder="" class="form-control">
+                    </div>
+                    <div class="form-group">
+                      <label for="name">From*</label>
+                      <input type="text" placeholder="" class="form-control">
+                    </div>
+                    <div class="form-group">
+                      <label for="name">Select Location</label>
+                      <select class="form-control">
+
+                        <option>With In City</option>
+                        <option>Bangalore</option>
+                        <option>Hosur</option>
+                        <option>Hubli</option>
+                        <option>Ananthapur</option>
+                        <option>Belagavi</option>
+
+                      </select>
+                    </div>
+                    <div class="form-group">
+                      <label for="email">Email</label>
+                      <input type="email" placeholder="" class="form-control" id="email" name="email">
+                    </div>
+                  </form>
+                </div>
+
+                <div class="col-md-6">
+                  <form>
+                    <div class="form-group">
+                      <label for="name">Mobile*</label>
+                      <input type="tel" placeholder="" pattern=".{10}" class="form-control">
+                    </div>
+                    <div class="form-group">
+                      <label for="name">To*</label>
+                      <input type="text" placeholder="" class="form-control">
+                    </div>
+                    <div class="form-group">
+                      <label for="name">Select Shifting Type</label>
+                      <select class="form-control">
+                        <option>Domestic Moving</option>
+                        <option>Office Moving</option>
+                        <option>House Shifting</option>
+
+
+                      </select>
+                    </div>
+                  </form>
+                </div>
+              </div>
+
+              <center>
+                <button type="button" class="btn btn-primary">Submit</button>
+              </center>
+            </div>
+          </div>
+        </div>
+
+        <!-- Modal footer -->
+        <div class="modal-footer">
+          <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+
+  <div class="modal" id="myModal2">
+    <div class="modal-dialog">
+      <div class="modal-content">
+
+        <!-- Modal Header -->
+        <div class="modal-header">
+          <h4 class="modal-title">Full Truck Load</h4>
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+        </div>
+
+        <!-- Modal body -->
+        <div class="modal-body">
+          <div class="card">
+            <div class="card-body">
+              <div class="row">
+                <div class="col-md-6">
+                  <div class="form-group">
+                    <label for="name">From</label>
+                    <input type="text" placeholder="Enter Location" class="form-control">
+                  </div>
+                  <div class="form-group">
+                    <label for="email">email</label>
+                    <input type="email" placeholder="enter mail" class="form-control">
+                  </div>
+                  <div class="form-group">
+                    <label for="location">Enter Pickup City</label>
+                    <input type="text" placeholder="Enter Weight" class="form-control">
+                  </div>
+                  <div class="form-group">
+                    <label for="date">Enter Pickup date</label>
+                    <input type="date" placeholder="Enter date" class="form-control">
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="form-group">
+                    <label for="name">To</label>
+                    <input type="text" placeholder="Enter Location" class="form-control">
+                  </div>
+                  <div class="form-group">
+                    <label for="number">Mobile Number</label>
+                    <input type="tel" placeholder="mobile Number" class="form-control">
+                  </div>
+                  <div class="form-group">
+                    <label for="location">Enter Drop City</label>
+                    <input type="text" placeholder="Enter Weight" class="form-control">
+                  </div>
+                  <div class="form-group">
+                    <label for="date">Enter delivaerd date</label>
+                    <input type="date" placeholder="Enter date" class="form-control">
+                  </div>
+                </div>
+              </div>
+              <center>
+                <button type="button" class="btn btn-success">Submit</button>
+              </center>
+            </div>
+          </div>
+        </div>
+
+        <!-- Modal footer -->
+        <div class="modal-footer">
+          <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <!-- service forms end -->
+
+  <section>
+    <h2 class="head1" style="text-align: center">Who Are We?</h2>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <center>
+            <img src="./assets/img/WHo-We-are.jpg" class="img-fluid" style="height:300px;">
+          </center>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12">
+          <center>
+            <p style="text-align: center;color:black;font-family: sans-serif;font-weight:bold;padding-top:25px;">We
+              operate in Tier 2 and Tier 3 cities and are your premium logistics and transportation, service provider.
+              We offer 3PL Logistics, Packer & Mover, FTL & Transportation services, as well as a completely
+              customizable web platform for our customers to manage all of the shipping needs in one place.
+              We can assist you to meet all of your shipping demands at a low cost, with a simple, quick, and dependable
+              logistics solution.
+            </p>
+          </center>
+        </div>
+      </div>
+    </div>
+  </section>
+  <div class="container text-center">
+    <h2 class="head1 pb-4">How It Works</h2>
+    <center>
+      <video width="80%" height="80%" controls>
+        <source src="./assets/img/logistics.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </center>
+  </div>
+
+  <section>
+
+
+  </section>
+
+
+
+
+
+
+
+  <!-- ======= Contact Us Section ======= -->
+  <section id="contact" class="contact">
+    <div class="container" data-aos="fade-up">
+
+      <div class="section-title">
+        <h2 class="head1">Contact</h2>
+        <p>Contact us the get started</p>
+      </div>
+
+      <div class="row">
+
+        <div class="col-lg-5 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+          <div class="info">
+            <div class="address">
+              <i class="bi bi-geo-alt"></i>
+              <h4>Location:</h4>
+              <p>
+                Wajra Logistics PVT Ltd<br>
+                GSTN:- 29ABFCS9550E1Z0<br>
+                #1,2nd floor,Hari arcade,Manchalapur Cross, <br>
+                Goushala road,Raichur-584101,KA<br>
+                <strong>Phone:</strong>+91 8310276331, +91 9620148585<br>
+                <strong>Email:</strong> info@wajralogistics.com<br>
+              </p>
+            </div>
+
+            <div class="email">
+              <i class="bi bi-envelope"></i>
+              <h4>Email:</h4>
+              <p>info@wajra.in</p>
+            </div>
+
+            <div class="phone">
+              <i class="bi bi-phone"></i>
+              <h4>Call:</h4>
+              <p>+91 9620148585</p>
+            </div>
+
+            <iframe
+              src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621"
+              frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen></iframe>
+          </div>
+
+        </div>
+
+        <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
+          <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+            <div class="row">
+              <div class="form-group col-md-6">
+                <label for="name">Your Name</label>
+                <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
+              </div>
+              <div class="form-group col-md-6 mt-3 mt-md-0">
+                <label for="name">Your Email</label>
+                <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
+              </div>
+            </div>
+            <div class="form-group mt-3">
+              <label for="name">Subject</label>
+              <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
+            </div>
+            <div class="form-group mt-3">
+              <label for="name">Message</label>
+              <textarea class="form-control" name="message" rows="10" required></textarea>
+            </div>
+            <div class="my-3">
+              <div class="loading">Loading</div>
+              <div class="error-message"></div>
+              <div class="sent-message">Your message has been sent. Thank you!</div>
+            </div>
+            <div class="text-center"><button type="submit">Send Message</button></div>
+          </form>
+        </div>
+
+      </div>
+
+    </div>
+  </section><!-- End Contact Us Section -->
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+
+
+    <div class="footer-top">
+      <div class="container">
+        <div class="row">
+
+          <div class=" col-md-3">
+
+            <img src="assets/img/White logo.png" style="width:60px;height:60px;margin-bottom: 10px;"><span
+              style="font-size:25px;">WAJRA Logistics</span>
+
+
+            <p style="font-size:13px;font-weight: bold;padding-left: 10px;">
+              WAJRA Logistcs Pvt Ltd<br>
+              GSTN:- 29ABFCS9550E1Z0<br>
+              #1,2nd floor,Hari arcade,<br>
+              Manchalapur Cross, <br>
+              Goushala road,Raichur-584101,KA<br>
+              <strong>Phone:</strong>+91 8310276331, +91 9620148585<br>
+              <strong>Email:</strong> info@wajralogistics.com<br>
+            </p>
+          </div>
+          <div class=" col-md-3 footer-links">
+            <h4>Useful Links</h4>
+            <ul>
+              <li><i class="bx bx-chevron-right"></i> <a href="aboutus.php">About</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="services.php">Services</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Tools</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Features</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Contact Us</a></li>
+            </ul>
+          </div>
+          <div class=" col-md-3 footer-links">
+            <h4>Our Services</h4>
+            <ul>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">3PL Logistics</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Full Truck Load</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Packers & Movers</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Transport Services</a></li>
+            </ul>
+          </div>
+
+          <div class=" col-md-3 footer-links">
+            <h4>Our Social Networks</h4>
+            <p>Fallow us on Social Handles</p>
+            <div class="social-links mt-3">
+              <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
+              <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
+              <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
+              <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
+              <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+            </div>
+
+          </div>
+
+        </div>
+      </div>
+      <div class="container py-4">
+        <div class="copyright">
+          &copy; Copyright <strong><span><a href="https://sendus.in">WAJRA</a></span></strong>. All Rights Reserved
+        </div>
+        <div class="credits">
+          <!-- All the links in the footer should remain intact. -->
+          <!-- You can delete the links only if you purchased the pro version. -->
+          <!-- Licensing information: https://bootstrapmade.com/license/ -->
+          <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/ninestars-free-bootstrap-3-theme-for-creative/ -->
+          Designed by <a href="//www.alffatechnologies.com">Alffa Technologies</a>
+        </div>
+      </div>
+    </div>
+  </footer><!-- End Footer -->
+
+  <link href="https://cdn.usebootstrap.com/bootstrap/4.5.0/js/bootstrap.bundle.min.js">
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+
+</body>
+
+</html>
